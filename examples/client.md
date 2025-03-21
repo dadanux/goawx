@@ -8,7 +8,7 @@ package main
 
 import (
     "log"
-    "github.com/denouche/goawx/client"
+    "github.com/dadanux/goawx/client"
 )
 
 func main() {
